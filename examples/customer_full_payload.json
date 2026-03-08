@@ -1,0 +1,14 @@
+﻿{
+  "salesperson": "张三",
+  "customer_name": "李女士",
+  "contact_info": "13800000000",
+  "age": "34",
+  "gender": "女",
+  "family_structure": "三口之家",
+  "living_area": "浦东",
+  "desired_layout": "三房",
+  "target_unit_price": "6万/平",
+  "target_total_price": "650万",
+  "first_visit_time": "2026-03-08",
+  "summary": "首次到访，对学区和通勤敏感"
+}
