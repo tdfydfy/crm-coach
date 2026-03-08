@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Call V2 CRM API with fixed table_key and normalized output."""
 
 from __future__ import annotations
